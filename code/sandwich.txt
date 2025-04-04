@@ -1,12 +1,23 @@
 estimate: 25 lines
 
-open peanutbutter
-open jelly
-grab 1 piece of bread
-grab knife in other hand
-dip knife into peanutbutter jar
-push side of knife onto bread
-wipe off knife
-grab second piece of bread
-repeat 4-9 but with jelly jar on second piece
-put breads together with peanutbutter touching jelly
+Open peanutbutter jar 
+Grab first knife handle
+Push first knife blade into peanutbutter
+Rotate first knife blade 360 degrees
+remove first knife blade
+Using other hand, grab 1 piece of bread
+Place first knife blade on bread
+Move first knife blade back and forth between sides of crust
+Place bread down on table
+Place first knife on table
+Open Jelly jar
+grab second knife
+Repeat lines 4-7 but replace "peanutbutter" with "jelly"
+Grab second piece of bread
+repeat steps 9 and 10 with second knife and second piece of bread
+Place second knife on table
+Grab first piece of bread
+Touch one full side of crust on first piece of bread next to one full side of crust on second piece of bread with only bread touching the table
+Connect another full side of crust on each piece of bread with only bread touching the table
+grab knife
+cut uniform structure in half
